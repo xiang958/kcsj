@@ -1,0 +1,1276 @@
+{
+  "code": 0,
+  "data": {
+    "movies": [
+      {
+        "movieId": 232770,
+        "name": "八佰",
+        "nameEn": "The Eight Hundred",
+        "movieType": "剧情 / 战争 / 历史",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/08/02/162803.49207350_o.jpg",
+        "titleOthersCn": [
+          "八百启示录",
+          "战争启示录之八百壮士",
+          "Ba Bai Qi Shi Lu",
+          "Ba Bai"
+        ],
+        "rating": 7.7,
+        "directors": [
+          "管虎"
+        ],
+        "actors": [
+          "王千源",
+          "张译"
+        ],
+        "directorObjs": [
+          {
+            "id": 906769,
+            "name": "管虎"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 1546221,
+            "name": "王千源"
+          },
+          {
+            "id": 1311848,
+            "name": "张译"
+          }
+        ],
+        "href": "http://movie.mtime.com/232770",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2020年8月21日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 147,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 8,
+        "rDay": 21
+      },
+      {
+        "movieId": 215121,
+        "name": "姜子牙",
+        "nameEn": "Legend Of Deification",
+        "movieType": "动画 / 动作 / 冒险",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/08/16/212716.70210480_o.jpg",
+        "titleOthersCn": [
+          "我的师父姜子牙",
+          "Six Tao's",
+          "Master Jiang and The Six Kingdoms"
+        ],
+        "rating": 6.5,
+        "directors": [
+          "程腾",
+          "李炜"
+        ],
+        "actors": [
+          "郑希",
+          "李炜"
+        ],
+        "directorObjs": [
+          {
+            "id": 2106446,
+            "name": "程腾"
+          },
+          {
+            "id": 2097085,
+            "name": "李炜"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 2396265,
+            "name": "郑希"
+          },
+          {
+            "id": 2230155,
+            "name": "李炜"
+          }
+        ],
+        "href": "http://movie.mtime.com/215121",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2020年10月1日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 110,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 10,
+        "rDay": 1
+      },
+      {
+        "movieId": 264204,
+        "name": "信条",
+        "nameEn": "Tenet",
+        "movieType": "动作 / 科幻 / 惊悚",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/08/26/110228.69951956_o.jpg",
+        "titleOthersCn": [
+          "天能",
+          "Tenet",
+          "Tenet",
+          "Tenet",
+          "テネット",
+          "Довод",
+          "Tenet",
+          "Merry-Go-Round",
+          "Tenet",
+          "Тенет",
+          "Tenet",
+          "Tenet",
+          "Tenet",
+          "Tenet",
+          "Tenet",
+          "Tenet",
+          "Tenet",
+          "Tenet",
+          "TENET天能",
+          "Tenet",
+          "Tenet",
+          "Tenet",
+          "Tenet"
+        ],
+        "rating": 7.6,
+        "directors": [
+          "克里斯托弗·诺兰"
+        ],
+        "actors": [
+          "约翰·大卫·华盛顿",
+          "罗伯特·帕丁森"
+        ],
+        "directorObjs": [
+          {
+            "id": 892754,
+            "name": "克里斯托弗·诺兰"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 1032414,
+            "name": "约翰·大卫·华盛顿"
+          },
+          {
+            "id": 915324,
+            "name": "罗伯特·帕丁森"
+          }
+        ],
+        "href": "http://movie.mtime.com/264204",
+        "canPlay": 0,
+        "locationName": "英国",
+        "realTime": "2020年9月4日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 150,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "英国",
+        "rYear": 2020,
+        "rMonth": 9,
+        "rDay": 4
+      },
+      {
+        "movieId": 267615,
+        "name": "我和我的家乡",
+        "nameEn": "My People, My Homeland",
+        "movieType": "剧情",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/09/21/102018.96246313_o.jpg",
+        "titleOthersCn": [
+          "Wo He Wo De Jia Xiang"
+        ],
+        "rating": 7.5,
+        "directors": [
+          "宁浩",
+          "徐峥"
+        ],
+        "actors": [
+          "葛优",
+          "黄渤"
+        ],
+        "directorObjs": [
+          {
+            "id": 1176851,
+            "name": "宁浩"
+          },
+          {
+            "id": 1248675,
+            "name": "徐峥"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 939393,
+            "name": "葛优"
+          },
+          {
+            "id": 1249885,
+            "name": "黄渤"
+          }
+        ],
+        "href": "http://movie.mtime.com/267615",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2020年10月1日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 153,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 10,
+        "rDay": 1
+      },
+      {
+        "movieId": 268304,
+        "name": "金刚川",
+        "nameEn": "The Sacrifice",
+        "movieType": "动作 / 剧情 / 战争",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/10/23/105929.91950302_o.jpg",
+        "titleOthersCn": [],
+        "rating": 6.6,
+        "directors": [
+          "管虎",
+          "郭帆"
+        ],
+        "actors": [
+          "张译",
+          "郭帆"
+        ],
+        "directorObjs": [
+          {
+            "id": 906769,
+            "name": "管虎"
+          },
+          {
+            "id": 1784423,
+            "name": "郭帆"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 1311848,
+            "name": "张译"
+          },
+          {
+            "id": 956786,
+            "name": "郭帆"
+          }
+        ],
+        "href": "http://movie.mtime.com/268304",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2021年4月1日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 122,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2021,
+        "rMonth": 4,
+        "rDay": 1
+      },
+      {
+        "movieId": 223155,
+        "name": "花木兰",
+        "nameEn": "Mulan",
+        "movieType": "动作 / 奇幻 / 家庭",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/09/02/134416.15605691_o.jpg",
+        "titleOthersCn": [
+          "木兰",
+          "木兰传说",
+          "花木兰真人版",
+          "迪士尼真人版花木兰",
+          "花木兰",
+          "Мулан",
+          "Мулан",
+          "Mulan",
+          "Mulan",
+          "Μουλάν",
+          "Mulan",
+          "Mulán",
+          "Mulán",
+          "Мулан",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulán",
+          "Mulan",
+          "Mulan",
+          "ムーラン",
+          "Mulan",
+          "花木蘭",
+          "Mulan",
+          "Hoa Mộc Lan",
+          "Mulan",
+          "Mulán",
+          "Mulan",
+          "Мулан",
+          "Мулан",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Мулан",
+          "Mulana",
+          "Mulan",
+          "Mulán",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Mulan",
+          "Мулан",
+          "Mulan",
+          "Mulan",
+          "花木蘭",
+          "Mulan",
+          "Mulan",
+          "Mulan"
+        ],
+        "rating": 5.5,
+        "directors": [
+          "妮基·卡罗"
+        ],
+        "actors": [
+          "刘亦菲",
+          "甄子丹"
+        ],
+        "directorObjs": [
+          {
+            "id": 904583,
+            "name": "妮基·卡罗"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 1176638,
+            "name": "刘亦菲"
+          },
+          {
+            "id": 893008,
+            "name": "甄子丹"
+          }
+        ],
+        "href": "http://movie.mtime.com/223155",
+        "canPlay": 0,
+        "locationName": "美国",
+        "realTime": "2020年9月11日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 115,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "美国",
+        "rYear": 2020,
+        "rMonth": 9,
+        "rDay": 11
+      },
+      {
+        "movieId": 254336,
+        "name": "夺冠",
+        "nameEn": "Duo Guan",
+        "movieType": "剧情 / 运动",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/09/14/134123.33507810_o.jpg",
+        "titleOthersCn": [
+          "中国女排",
+          "Zhong Guo Nv Pai",
+          "Leap",
+          "Zhong Guo Nv Pai"
+        ],
+        "rating": 7.4,
+        "directors": [
+          "陈可辛"
+        ],
+        "actors": [
+          "巩俐",
+          "黄渤"
+        ],
+        "directorObjs": [
+          {
+            "id": 892817,
+            "name": "陈可辛"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 912927,
+            "name": "巩俐"
+          },
+          {
+            "id": 1249885,
+            "name": "黄渤"
+          }
+        ],
+        "href": "http://movie.mtime.com/254336",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2020年9月25日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 135,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 9,
+        "rDay": 25
+      },
+      {
+        "movieId": 255472,
+        "name": "拆弹专家2",
+        "nameEn": "Shock Wave 2",
+        "movieType": "动作 / 犯罪",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/12/15/123841.10782003_o.jpg",
+        "titleOthersCn": [],
+        "rating": 7.6,
+        "directors": [
+          "邱礼涛"
+        ],
+        "actors": [
+          "刘德华",
+          "刘青云"
+        ],
+        "directorObjs": [
+          {
+            "id": 892937,
+            "name": "邱礼涛"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 924681,
+            "name": "刘德华"
+          },
+          {
+            "id": 923218,
+            "name": "刘青云"
+          }
+        ],
+        "href": "http://movie.mtime.com/255472",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2020年12月24日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 121,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 12,
+        "rDay": 24
+      },
+      {
+        "movieId": 262895,
+        "name": "囧妈",
+        "nameEn": "Lost In Russia",
+        "movieType": "剧情 / 喜剧",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/01/13/144906.94615802_o.jpg",
+        "titleOthersCn": [
+          "俄囧"
+        ],
+        "rating": 6.4,
+        "directors": [
+          "徐峥"
+        ],
+        "actors": [
+          "徐峥",
+          "黄梅莹"
+        ],
+        "directorObjs": [
+          {
+            "id": 1248675,
+            "name": "徐峥"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 1248675,
+            "name": "徐峥"
+          },
+          {
+            "id": 1095207,
+            "name": "黄梅莹"
+          }
+        ],
+        "href": "http://movie.mtime.com/262895",
+        "canPlay": 1,
+        "locationName": "中国",
+        "realTime": "2020年1月25日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 126,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 1,
+        "rDay": 25
+      },
+      {
+        "movieId": 249581,
+        "name": "神奇女侠1984",
+        "nameEn": "Wonder Woman 1984",
+        "movieType": "动作 / 冒险 / 奇幻",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/11/26/104101.22456704_o.jpg",
+        "titleOthersCn": [
+          "神奇女侠2",
+          "神力女超人1984",
+          "Чудо-женщина: 1984",
+          "Mulher-Maravilha 1984",
+          "Wonder Woman 1984",
+          "Wonder Woman 1984",
+          "Mujer Maravilla 1984",
+          "Wonder Woman 1984",
+          "Wonder Woman 1984",
+          "Wonder Woman 1984",
+          "Wonder Woman 1984",
+          "ワンダーウーマン 1984",
+          "Nuostabioji moteris 1984",
+          "Mulher-Maravilha 1984",
+          "Wonder Woman 1984",
+          "神力女超人1984",
+          "Wonder Woman 1984",
+          "Wonder Woman 1984",
+          "Untitled DC Comics Film",
+          "神奇女俠：1984",
+          "Wonder Woman 1984",
+          "Wonder Woman 1984",
+          "WW84",
+          "Čudesna Žena 1984",
+          "Жената чудо 1984",
+          "Femeia Minune 1984",
+          "Femeia Minune 1984",
+          "Čudesna Žena 1984",
+          "Диво-жінка 1984",
+          "Wonder Woman 1984",
+          "Wonder Woman 1984",
+          "Wonder Woman 2",
+          "WW84",
+          "Mujer Maravilla 1984",
+          "Al-aimra'a Al-aejuba 1984",
+          "Mujer Maravilla 1984",
+          "Wonder Woman 1984",
+          "Mo'jizakor ayol 1984",
+          "Wonder Woman 1984"
+        ],
+        "rating": 6.7,
+        "directors": [
+          "派蒂·杰金斯"
+        ],
+        "actors": [
+          "盖尔·加朵",
+          "克里斯·派恩"
+        ],
+        "directorObjs": [
+          {
+            "id": 904807,
+            "name": "派蒂·杰金斯"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 1533592,
+            "name": "盖尔·加朵"
+          },
+          {
+            "id": 917143,
+            "name": "克里斯·派恩"
+          }
+        ],
+        "href": "http://movie.mtime.com/249581",
+        "canPlay": 0,
+        "locationName": "美国",
+        "realTime": "2020年12月18日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 151,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "美国",
+        "rYear": 2020,
+        "rMonth": 12,
+        "rDay": 18
+      },
+      {
+        "movieId": 259165,
+        "name": "晴雅集",
+        "nameEn": "Qing Ya Ji",
+        "movieType": "爱情 / 奇幻",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/10/10/111703.25015879_o.jpg",
+        "titleOthersCn": [
+          "阴阳师",
+          "郭敬明版阴阳师",
+          "Yin-Yang Master I",
+          "晴雅集"
+        ],
+        "rating": 5.9,
+        "directors": [
+          "郭敬明"
+        ],
+        "actors": [
+          "赵又廷",
+          "邓伦"
+        ],
+        "directorObjs": [
+          {
+            "id": 1573981,
+            "name": "郭敬明"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 1619401,
+            "name": "赵又廷"
+          },
+          {
+            "id": 2058233,
+            "name": "邓伦"
+          }
+        ],
+        "href": "http://movie.mtime.com/259165",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2020年12月25日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 132,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 12,
+        "rDay": 25
+      },
+      {
+        "movieId": 264540,
+        "name": "心灵奇旅",
+        "nameEn": "Soul",
+        "movieType": "动画 / 冒险 / 喜剧",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/11/20/183929.64152896_o.jpg",
+        "titleOthersCn": [
+          "灵魂",
+          "Soul",
+          "Soul",
+          "За душата",
+          "Soul",
+          "Duša",
+          "Soul",
+          "Soul",
+          "Lelki ismeretek",
+          "Soul",
+          "ソウル",
+          "Siela",
+          "Co w duszy gra",
+          "Soul",
+          "Душа",
+          "Duša",
+          "Soul",
+          "Själen",
+          "Душа",
+          "Soul",
+          "Soul",
+          "Soul - Uma Aventura com Alma",
+          "Duša",
+          "Âme",
+          "Soul",
+          "靈魂急轉彎",
+          "Soul",
+          "Soul",
+          "Cuộc Sống Nhiệm Màu"
+        ],
+        "rating": 8.3,
+        "directors": [
+          "彼特·道格特",
+          "坎普·鲍尔斯"
+        ],
+        "actors": [
+          "杰米·福克斯",
+          "坎普·鲍尔斯"
+        ],
+        "directorObjs": [
+          {
+            "id": 901755,
+            "name": "彼特·道格特"
+          },
+          {
+            "id": 2309568,
+            "name": "坎普·鲍尔斯"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 912702,
+            "name": "杰米·福克斯"
+          },
+          {
+            "id": 901979,
+            "name": "坎普·鲍尔斯"
+          }
+        ],
+        "href": "http://movie.mtime.com/264540",
+        "canPlay": 0,
+        "locationName": "美国",
+        "realTime": "2020年12月25日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 100,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "美国",
+        "rYear": 2020,
+        "rMonth": 12,
+        "rDay": 25
+      },
+      {
+        "movieId": 261863,
+        "name": "除暴",
+        "nameEn": "Caught In time",
+        "movieType": "剧情 / 犯罪 / 动作",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/11/17/085947.22693327_o.jpg",
+        "titleOthersCn": [
+          "限期破案",
+          "Xian qi po an",
+          "Caught in Time"
+        ],
+        "rating": 6.7,
+        "directors": [
+          "刘浩良"
+        ],
+        "actors": [
+          "王千源",
+          "吴彦祖"
+        ],
+        "directorObjs": [
+          {
+            "id": 893550,
+            "name": "刘浩良"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 1546221,
+            "name": "王千源"
+          },
+          {
+            "id": 924666,
+            "name": "吴彦祖"
+          }
+        ],
+        "href": "http://movie.mtime.com/261863",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2020年11月20日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 95,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 11,
+        "rDay": 20
+      },
+      {
+        "movieId": 269024,
+        "name": "沐浴之王",
+        "nameEn": "Bath Buddy",
+        "movieType": "动作 / 喜剧",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/12/08/092954.45411744_o.jpg",
+        "titleOthersCn": [
+          "Mu Yu Zhi Wang"
+        ],
+        "rating": 6.6,
+        "directors": [
+          "易小星"
+        ],
+        "actors": [
+          "彭昱畅",
+          "乔杉"
+        ],
+        "directorObjs": [
+          {
+            "id": 1897048,
+            "name": "易小星"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 2220666,
+            "name": "彭昱畅"
+          },
+          {
+            "id": 2116764,
+            "name": "乔杉"
+          }
+        ],
+        "href": "http://movie.mtime.com/269024",
+        "canPlay": 1,
+        "locationName": "中国",
+        "realTime": "2020年12月11日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 102,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 12,
+        "rDay": 11
+      },
+      {
+        "movieId": 256124,
+        "name": "紧急救援",
+        "nameEn": "The Rescue",
+        "movieType": "动作 / 剧情",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/11/27/144959.29466355_o.jpg",
+        "titleOthersCn": [],
+        "rating": 6.8,
+        "directors": [
+          "林超贤"
+        ],
+        "actors": [
+          "彭于晏",
+          "王彦霖"
+        ],
+        "directorObjs": [
+          {
+            "id": 892901,
+            "name": "林超贤"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 1257087,
+            "name": "彭于晏"
+          },
+          {
+            "id": 2154055,
+            "name": "王彦霖"
+          }
+        ],
+        "href": "http://movie.mtime.com/256124",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2020年12月18日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 139,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 12,
+        "rDay": 18
+      },
+      {
+        "movieId": 44712,
+        "name": "功夫2",
+        "nameEn": "Kung Fu Hustle 2",
+        "movieType": "动作 / 犯罪 / 喜剧",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2019/02/11/160651.30661470_o.jpg",
+        "titleOthersCn": [],
+        "rating": 0.0,
+        "directors": [
+          "周星驰"
+        ],
+        "actors": [],
+        "directorObjs": [
+          {
+            "id": 893017,
+            "name": "周星驰"
+          }
+        ],
+        "actorObjs": [],
+        "href": "http://movie.mtime.com/44712",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 0,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 0,
+        "rMonth": 0,
+        "rDay": 0
+      },
+      {
+        "movieId": 264181,
+        "name": "急先锋",
+        "nameEn": "Vanguard",
+        "movieType": "动作 / 冒险 / 喜剧",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/09/01/223110.14798531_o.jpg",
+        "titleOthersCn": [
+          "VANGUARD"
+        ],
+        "rating": 5.6,
+        "directors": [
+          "唐季礼"
+        ],
+        "actors": [
+          "成龙",
+          "杨洋"
+        ],
+        "directorObjs": [
+          {
+            "id": 892951,
+            "name": "唐季礼"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 892908,
+            "name": "成龙"
+          },
+          {
+            "id": 1509793,
+            "name": "杨洋"
+          }
+        ],
+        "href": "http://movie.mtime.com/264181",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2020年9月30日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 108,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 9,
+        "rDay": 30
+      },
+      {
+        "movieId": 233063,
+        "name": "X战警：新变种人",
+        "nameEn": "X-Men: The New Mutants",
+        "movieType": "动作 / 恐怖 / 科幻",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/05/14/063254.20422396_o.jpg",
+        "titleOthersCn": [
+          "新变种人",
+          "New Mutants",
+          "Los Nuevos Mutantes",
+          "Новите мутанти",
+          "Os Novos Mutantes",
+          "Noví mutanti",
+          "Los Nuevos Mutantes",
+          "Οι νέοι μεταλλαγμένοι",
+          "Új mutánsok",
+          "New Mutants",
+          "Nowi mutanci",
+          "Люди Икс: Новые мутанты",
+          "Noví mutanti",
+          "Yeni Mutantlar",
+          "Growing Pains",
+          "The New Mutants",
+          "Les Nouveaux Mutants",
+          "Naujieji mutantai",
+          "Os Novos Mutantes",
+          "New Mutants",
+          "The New Mutants",
+          "Di Nhan The He Moi"
+        ],
+        "rating": 5.2,
+        "directors": [
+          "乔什·波恩"
+        ],
+        "actors": [
+          "麦茜·威廉姆斯",
+          "安雅·泰勒-乔伊"
+        ],
+        "directorObjs": [
+          {
+            "id": 1934710,
+            "name": "乔什·波恩"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 1719884,
+            "name": "麦茜·威廉姆斯"
+          },
+          {
+            "id": 2068601,
+            "name": "安雅·泰勒-乔伊"
+          }
+        ],
+        "href": "http://movie.mtime.com/233063",
+        "canPlay": 0,
+        "locationName": "美国",
+        "realTime": "2020年8月28日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": true,
+        "isVideo": false,
+        "length": 0,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": true,
+        "rLocation": "美国",
+        "rYear": 2020,
+        "rMonth": 8,
+        "rDay": 28
+      },
+      {
+        "movieId": 229655,
+        "name": "我在时间尽头等你",
+        "nameEn": "Love You Forever",
+        "movieType": "爱情 / 奇幻",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/08/06/102642.93301427_o.jpg",
+        "titleOthersCn": [],
+        "rating": 6.0,
+        "directors": [
+          "姚婷婷"
+        ],
+        "actors": [
+          "李鸿其",
+          "李一桐"
+        ],
+        "directorObjs": [
+          {
+            "id": 1932164,
+            "name": "姚婷婷"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 2126541,
+            "name": "李鸿其"
+          },
+          {
+            "id": 2186877,
+            "name": "李一桐"
+          }
+        ],
+        "href": "http://movie.mtime.com/229655",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2020年8月25日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 115,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 8,
+        "rDay": 25
+      },
+      {
+        "movieId": 230022,
+        "name": "冷血狂宴",
+        "nameEn": "L.O.R.D: Legend of Ravaging Dynasties 2",
+        "movieType": "动画 / 奇幻",
+        "movieContentType": "电影",
+        "img": "http://img5.mtime.cn/mt/2020/11/18/145006.30507942_o.jpg",
+        "titleOthersCn": [
+          "爵迹2",
+          "爵迹Ⅱ",
+          "爵迹2：冷血狂宴",
+          "L.O.R.D"
+        ],
+        "rating": 4.0,
+        "directors": [
+          "郭敬明"
+        ],
+        "actors": [
+          "吴亦凡",
+          "陈学冬"
+        ],
+        "directorObjs": [
+          {
+            "id": 1573981,
+            "name": "郭敬明"
+          }
+        ],
+        "actorObjs": [
+          {
+            "id": 1981491,
+            "name": "吴亦凡"
+          },
+          {
+            "id": 1993256,
+            "name": "陈学冬"
+          }
+        ],
+        "href": "http://movie.mtime.com/230022",
+        "canPlay": 0,
+        "locationName": "中国",
+        "realTime": "2020年12月4日",
+        "year": 2020,
+        "releaseStatus": 0,
+        "isTicket": false,
+        "isFilter": false,
+        "isVideo": false,
+        "length": 0,
+        "saleType": 0,
+        "ticket": false,
+        "video": false,
+        "filter": false,
+        "rLocation": "中国",
+        "rYear": 2020,
+        "rMonth": 12,
+        "rDay": 4
+      }
+    ],
+    "moviesCount": 1375,
+    "articles": null,
+    "articlesCount": 0,
+    "persons": null,
+    "personsCount": 0,
+    "filmComments": null,
+    "filmCommentsCount": 0,
+    "posts": null,
+    "postsCount": 0,
+    "logs": null,
+    "logsCount": 0,
+    "families": null,
+    "familiesCount": 0,
+    "cinemas": null,
+    "locationCinemas": null,
+    "cinemaCount": 0,
+    "locationCinemasCount": 0,
+    "userInfos": null,
+    "userInfosCount": 0,
+    "filmListCount": 0,
+    "filmList": [],
+    "audioCount": 0,
+    "audioList": [],
+    "videoCount": 0,
+    "videoList": [],
+    "categorySortList": []
+  },
+  "msg": "",
+  "requestId": "62b3ed46a3aa4e575a6fb60649631f22"
+}
+
